@@ -1,0 +1,5 @@
+print("goa is the best programming academy")
+print("I am really happy thet im I am going to Goa becouse I will learn meny things")
+print("in Goa teachers and squad leaders are really nice and everyone is really smart")
+print("if we can not understand something mentors alweys help us")
+print("if u can not stay on the lesson they are making a video file wich u can always watch")
