@@ -1,9 +1,5 @@
-password = "goa_best"
-guess = input("enter ur password: ")
-i = 0
-while guess != password:
-    print(input("try agein: "))
-    i = i + 1
-    print(i)
-if guess == password:
-    print("logged in sucssesfully")
+user_input = int(input("enter a number: "))
+if user_input % 2 == 0:
+    print("number is even")
+elif():
+        print("number is not even")
